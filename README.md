@@ -122,14 +122,6 @@ Planned features and improvements:
 - **More AI Models**: Experiment with alternative AI models for analysis.
 - **Cloud Integration**: Allow processing PDFs from cloud storage (Google Drive, Dropbox, etc.).
 
-## Contributing
-
-Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 *   Google Generative AI
