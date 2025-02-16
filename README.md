@@ -1,5 +1,7 @@
 # PDF Analyzer
 
+⚠️ **Note: This is a Work in Progress (WIP).** Errors may occur, and features are subject to change. Use at your own discretion.
+
 **PDF Analyzer** is an interactive command-line tool that leverages Google Gemini's generative AI to extract and analyze content from PDF documents. The tool supports extracting text and images, summarizing content, performing deep analysis (including code snippet extraction, table extraction, document structure analysis, and more), and even providing real-time progress updates—all in a single-file script.
 
 ## Features
@@ -109,6 +111,16 @@
 *   **API or Analysis Errors:**
 
     Verify your internet connection and the validity of your API key if you encounter issues during analysis.
+
+## Future Roadmap
+
+Planned features and improvements:
+- **Enhanced OCR Support**: Integrate Tesseract OCR for scanned PDFs.
+- **Improved Table Extraction**: Better handling of complex tables.
+- **Multilingual Support**: Expand support for non-English documents.
+- **Interactive Web Interface**: Develop a front-end for easier access.
+- **More AI Models**: Experiment with alternative AI models for analysis.
+- **Cloud Integration**: Allow processing PDFs from cloud storage (Google Drive, Dropbox, etc.).
 
 ## Contributing
 
