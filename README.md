@@ -34,7 +34,7 @@
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://www.google.com/search?q=https://github.com/HMVL-net/pdf-analyzer.git
+    git clone https://github.com/HMVL-net/pdf-analyzer.git
     cd pdf-analyzer
     ```
 
